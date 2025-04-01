@@ -1,2 +1,2 @@
-# Calcal
-Calcal front-end 
+-npm install to add node modules
+-npm run dev to run the code locally
